@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     TvSteps = (TextView) findViewById(R.id.tv_steps);
     BtnStart = (Button) findViewById(R.id.btn_start);
     BtnStop = (Button) findViewById(R.id.btn_stop);
+    BtnLeaderboard = (Button) findViewById(R.id.btn_leaderboard)
  
  
  
